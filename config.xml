@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<widget xmlns="http://www.w3.org/ns/widgets" 
+    xmlns:rim="http://www.blackberry.com/ns/widgets"
+    version="1.0.0.0" id="de.zhapps.HalloMobileApp">
+   
+    <name>HelloMobile</name> 
+    <author>Marcus Ross</author>
+    <description>Eine einfache erste App</description>
+    <icon src="images/icon.png"/>
+    <content src="index.html"/> 
+
+</widget>
